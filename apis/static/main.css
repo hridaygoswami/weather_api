@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    height: 96vh;
+}
+
+.container {
+    border: 1px solid white;
+    padding: 30px;
+    transform: scale(1.2);
+}
+select {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    font-size: 30px;
+    border-radius: 12px;
+}
+input[type='submit'] {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    font-size: 20px;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
